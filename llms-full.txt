@@ -1,0 +1,41 @@
+# Geotecnia1 — Calama
+
+> Geotechnical engineering services in Calama, Chile.
+
+## Services
+- [Aislacion Sismica](https://calama.geotecnia1.com/aislacion-sismica/)
+- [Anclajes](https://calama.geotecnia1.com/anclajes/)
+- [Cimentaciones](https://calama.geotecnia1.com/cimentaciones/)
+- [Cimentaciones Superficiales](https://calama.geotecnia1.com/cimentaciones-superficiales/)
+- [Columnas Grava](https://calama.geotecnia1.com/columnas-grava/)
+- [Densidad Cono Arena](https://calama.geotecnia1.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://calama.geotecnia1.com/ensayo-cpt/)
+- [Estabilidad Taludes](https://calama.geotecnia1.com/estabilidad-taludes/)
+- [Excavaciones Subterraneo](https://calama.geotecnia1.com/excavaciones-subterraneo/)
+- [Exploracion](https://calama.geotecnia1.com/exploracion/)
+- [Geotecnia Vial](https://calama.geotecnia1.com/geotecnia-vial/)
+- [Grouting](https://calama.geotecnia1.com/grouting/)
+- [Laboratorio In Situ](https://calama.geotecnia1.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://calama.geotecnia1.com/laboratorio-lab/)
+- [Licuefaccion](https://calama.geotecnia1.com/licuefaccion/)
+- [Limites Atterberg](https://calama.geotecnia1.com/limites-atterberg/)
+- [Losa De Cimentacion](https://calama.geotecnia1.com/losa-de-cimentacion/)
+- [Mejoramiento](https://calama.geotecnia1.com/mejoramiento/)
+- [Microzonificacion Sismica](https://calama.geotecnia1.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://calama.geotecnia1.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://calama.geotecnia1.com/muros-contencion/)
+- [Pavimento Flexible](https://calama.geotecnia1.com/pavimento-flexible/)
+- [Pavimento Rigido](https://calama.geotecnia1.com/pavimento-rigido/)
+- [Permeabilidad Campo](https://calama.geotecnia1.com/permeabilidad-campo/)
+- [Pilotes](https://calama.geotecnia1.com/pilotes/)
+- [Sismica](https://calama.geotecnia1.com/sismica/)
+- [Taludes](https://calama.geotecnia1.com/taludes/)
+- [Tuneles Suelo Blando](https://calama.geotecnia1.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://calama.geotecnia1.com/vibrocompactacion/)
+
+## Contact
+- Website: https://calama.geotecnia1.com/
+
+## About
+This site provides geotechnical engineering services in Calama, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
